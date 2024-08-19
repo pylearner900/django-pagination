@@ -16,5 +16,5 @@ HTML, CSS, Python, Django, Bootstrap
 
 ## Screenshots
 
-<img src="pagination-ss.png">
+<img src="ss.png">
 
